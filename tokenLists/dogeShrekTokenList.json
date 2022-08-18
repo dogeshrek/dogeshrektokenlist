@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "patch": 0
     },
@@ -28,6 +28,14 @@
             "name": "Wrapped Doge",
             "symbol": "WWDoge",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+        },
+           {
+            "chainId": 2000,
+            "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
+            "decimals": 18,
+            "name": "Bourbon",
+            "symbol": "BOURBON",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/bourbon.png"
         },
         {
             "chainId": 2000,
@@ -113,5 +121,5 @@
         
 
     ],
-    "timestamp": "2022-08-10T12:00:00+00:00"
+    "timestamp": "2022-18-10T12:00:00+00:00"
 }
