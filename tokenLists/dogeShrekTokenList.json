@@ -29,13 +29,29 @@
             "symbol": "WWDoge",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
         },
+        {
+            "chainId": 2000,
+            "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
+            "decimals": 18,
+            "name": "YODE",
+            "symbol": "YODE",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/yode.png"
+        },
          {
             "chainId": 2000,
-            "address": "0x8df9B21945ebaa75424730F85eCFf426C35F5EF8",
+            "address": "0x1e1026ba0810e6391b0F86AFa8A9305c12713B66",
             "decimals": 18,
-            "name": "DogeCorn",
-            "symbol": "DogeCorn",
-            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dogecorn.png"
+            "name": "Kibble",
+            "symbol": "KIB",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/kib.png"
+        },
+           {
+            "chainId": 2000,
+            "address": "0x769B1442f0FbAe3525647c9B81126F62f6A64Ff8",
+            "decimals": 18,
+            "name": "PUP",
+            "symbol": "PUP",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/pup.png"
         },
         {
             "chainId": 2000,
@@ -52,6 +68,14 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/usdc.png"
+        },
+         {
+            "chainId": 2000,
+            "address": "0x8df9B21945ebaa75424730F85eCFf426C35F5EF8",
+            "decimals": 18,
+            "name": "DogeCorn",
+            "symbol": "DogeCorn",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dogecorn.png"
         },
         {
             "chainId": 2000,
