@@ -39,6 +39,14 @@
         },
         {
             "chainId": 2000,
+            "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+            "decimals": 18,
+            "name": "Dogechain Token",
+            "symbol": "DC",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dcToken.png"
+        },
+        {
+            "chainId": 2000,
             "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
             "decimals": 18,
             "name": "YODE",
