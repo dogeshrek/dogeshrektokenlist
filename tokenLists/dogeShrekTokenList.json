@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
@@ -124,10 +124,18 @@
             "name": "Doge Eat Doge",
             "symbol": "OMNOM",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0xe3fcA919883950c5cD468156392a6477Ff5d18de/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x832108d07e0d0a68042051827C3DB5bA31BeDE40",
+            "decimals": 9,
+            "name": "OMDOGE",
+            "symbol": "OM",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/omdoge.png"
         }
         
         
 
     ],
-    "timestamp": "2022-18-10T12:00:00+00:00"
+    "timestamp": "2022-03-11T12:00:00+00:00"
 }
