@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 5,
+        "major": 6,
         "minor": 0,
         "patch": 0
     },
@@ -148,10 +148,18 @@
             "name": "WhiteDoge",
             "symbol": "WOGE",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0x5624f7aA91bB52A98921DaB78F1b60C710606734/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x1df5c9B7789BD1416d005C15A42762481C95eDC2",
+            "decimals": 18,
+            "name": "DogeTools",
+            "symbol": "DTools",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dogetools.png"
         }
         
         
 
     ],
-    "timestamp": "2022-03-11T12:00:00+00:00"
+    "timestamp": "2022-05-11T12:00:00+00:00"
 }
