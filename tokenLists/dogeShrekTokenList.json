@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 6,
+        "major": 7,
         "minor": 0,
         "patch": 0
     },
@@ -156,10 +156,18 @@
             "name": "DogeTools",
             "symbol": "DTools",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dogetools.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x446EB7770D4E34772b75b3C795D2c2cD00a19808",
+            "decimals": 18,
+            "name": "Katz",
+            "symbol": "Katz",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0x446EB7770D4E34772b75b3C795D2c2cD00a19808/logo.png"
         }
         
         
 
     ],
-    "timestamp": "2022-05-11T12:00:00+00:00"
+    "timestamp": "2022-06-11T12:00:00+00:00"
 }
