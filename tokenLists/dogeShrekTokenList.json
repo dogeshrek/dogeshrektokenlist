@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 7,
+        "major": 8,
         "minor": 0,
         "patch": 0
     },
@@ -164,10 +164,18 @@
             "name": "Katz",
             "symbol": "Katz",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0x446EB7770D4E34772b75b3C795D2c2cD00a19808/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x8F7B9EaBB8656733A42B8A79c2c1E4D016C97e25",
+            "decimals": 18,
+            "name": "OMNOMGOLD",
+            "symbol": "OMNG",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0x8F7B9EaBB8656733A42B8A79c2c1E4D016C97e25/logo.png"
         }
         
         
 
     ],
-    "timestamp": "2022-06-11T12:00:00+00:00"
+    "timestamp": "2022-07-11T12:00:00+00:00"
 }
