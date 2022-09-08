@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 8,
+        "major": 9,
         "minor": 0,
         "patch": 0
     },
@@ -172,10 +172,18 @@
             "name": "OMNOMGOLD",
             "symbol": "OMNG",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0x8F7B9EaBB8656733A42B8A79c2c1E4D016C97e25/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xf6D0a6124dd17BB300663d57ce9B23822BE6996D",
+            "decimals": 18,
+            "name": "LuckyDogeInu",
+            "symbol": "LDI",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0xf6D0a6124dd17BB300663d57ce9B23822BE6996D/logo.png"
         }
         
         
 
     ],
-    "timestamp": "2022-07-11T12:00:00+00:00"
+    "timestamp": "2022-08-11T12:00:00+00:00"
 }
