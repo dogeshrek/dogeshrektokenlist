@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 10,
+        "major": 11,
         "minor": 0,
         "patch": 0
     },
@@ -180,10 +180,18 @@
             "name": "MATIC",
             "symbol": "MATIC",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/matic.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x69219B5A1767F002E57c6D8847b2d6BB7ADee864",
+            "decimals": 18,
+            "name": "DOGEPOOP",
+            "symbol": "DOGEPOOP",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0x69219B5A1767F002E57c6D8847b2d6BB7ADee864/logo.png"
         }
         
         
 
     ],
-    "timestamp": "2022-09-10T12:00:00+00:00"
+    "timestamp": "2022-09-11T12:00:00+00:00"
 }
