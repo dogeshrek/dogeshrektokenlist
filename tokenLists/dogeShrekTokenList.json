@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 9,
+        "major": 10,
         "minor": 0,
         "patch": 0
     },
@@ -175,15 +175,15 @@
         },
         {
             "chainId": 2000,
-            "address": "0xf6D0a6124dd17BB300663d57ce9B23822BE6996D",
+            "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
             "decimals": 18,
-            "name": "LuckyDogeInu",
-            "symbol": "LDI",
-            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0xf6D0a6124dd17BB300663d57ce9B23822BE6996D/logo.png"
+            "name": "MATIC",
+            "symbol": "MATIC",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/matic.png"
         }
         
         
 
     ],
-    "timestamp": "2022-08-11T12:00:00+00:00"
+    "timestamp": "2022-09-10T12:00:00+00:00"
 }
