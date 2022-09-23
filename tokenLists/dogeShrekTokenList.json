@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 11,
+        "major": 12,
         "minor": 0,
         "patch": 0
     },
@@ -183,15 +183,15 @@
         },
         {
             "chainId": 2000,
-            "address": "0x69219B5A1767F002E57c6D8847b2d6BB7ADee864",
+            "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
             "decimals": 18,
-            "name": "DOGEPOOP",
-            "symbol": "DOGEPOOP",
-            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0x69219B5A1767F002E57c6D8847b2d6BB7ADee864/logo.png"
+            "name": "Duckereum",
+            "symbol": "DUCKER",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/duckereum.png"
         }
         
         
 
     ],
-    "timestamp": "2022-09-11T12:00:00+00:00"
+    "timestamp": "2022-09-23T12:00:00+00:00"
 }
