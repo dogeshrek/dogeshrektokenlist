@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 12,
+        "major": 13,
         "minor": 0,
         "patch": 0
     },
@@ -167,11 +167,11 @@
         },
         {
             "chainId": 2000,
-            "address": "0x8F7B9EaBB8656733A42B8A79c2c1E4D016C97e25",
+            "address": "0x4e2a57A8ffE65F794e9A32637Bc67b502fFc84C6",
             "decimals": 18,
-            "name": "OMNOMGOLD",
-            "symbol": "OMNG",
-            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0x8F7B9EaBB8656733A42B8A79c2c1E4D016C97e25/logo.png"
+            "name": "RadioShackToken",
+            "symbol": "RADIO",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/radioshack.png"
         },
         {
             "chainId": 2000,
