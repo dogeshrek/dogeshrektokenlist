@@ -45,6 +45,14 @@
             "symbol": "DC",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/dcToken.png"
         },
+         {
+            "chainId": 2000,
+            "address": "0x72aB1BAbED0502B08225FA1eF777fa673d82Ee3e",
+            "decimals": 18,
+            "name": "Kibby",
+            "symbol": "Kibby",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/kibby.png"
+        },
         {
             "chainId": 2000,
             "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
