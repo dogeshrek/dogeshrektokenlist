@@ -48,7 +48,7 @@
          {
             "chainId": 2000,
             "address": "0x72aB1BAbED0502B08225FA1eF777fa673d82Ee3e",
-            "decimals": 18,
+            "decimals": 9,
             "name": "Kibby",
             "symbol": "Kibby",
             "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/kibby.png"
