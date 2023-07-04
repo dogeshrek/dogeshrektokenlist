@@ -151,11 +151,11 @@
         },
         {
             "chainId": 2000,
-            "address": "0x5624f7aA91bB52A98921DaB78F1b60C710606734",
-            "decimals": 18,
-            "name": "WhiteDoge",
-            "symbol": "WOGE",
-            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/addresses/0x5624f7aA91bB52A98921DaB78F1b60C710606734/logo.png"
+            "address": "0x4716269c75C09eaA3Df3Cc1709A88C9Da663f272",
+            "decimals": 9,
+            "name": "KONRA",
+            "symbol": "KONRA",
+            "logoURI": "https://raw.githubusercontent.com/dogeshrek/dogeshrektokenlist/main/tokens/KONRA.png"
         },
         {
             "chainId": 2000,
@@ -201,5 +201,5 @@
         
 
     ],
-    "timestamp": "2022-09-23T12:00:00+00:00"
+    "timestamp": "2023-07-03T12:00:00+00:00"
 }
